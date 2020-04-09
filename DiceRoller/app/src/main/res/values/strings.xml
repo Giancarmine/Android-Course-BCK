@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DiceRoller</string>
+    <string name="helloW">Roll the Dice!</string>
+    <string name="roll">Roll</string>
+    <string name="countUp" translatable="false">Count Up</string>
+    <string name="buttonClicked">button clicked</string>
+    <string name="diceRolled">Dice Rolled!</string>
+</resources>
